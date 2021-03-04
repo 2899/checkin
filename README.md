@@ -32,5 +32,5 @@ Linux 自动签到参考[crontab](http://www.runoob.com/w3cnote/linux-crontab-ta
 
 Windows 自动签到可以使用任务计划程序。
 
-
+利用github actions自动签到，fork本仓库后开启actions，编辑.github/workflows/checkin.yml,在settings,Repository secrets里填写账号密码等信息后出发action动作就可以签到。
 
